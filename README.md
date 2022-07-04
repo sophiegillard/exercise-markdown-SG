@@ -20,7 +20,3 @@ This project will help you understand how to use markdown.
 [exercise](https://github.com/becodeorg/CRL-Wilson-1/blob/master/1.TRAIL/01.The-Field/03.Markdown/1.learning.adoc)
 
 ![this is a gif](https://media.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.gif)
-
-<script type="text/javascript">
-    alert("Hello!");
-</script>

@@ -59,10 +59,6 @@ To format text you should add asteriks:
 
 **For more tips please click [HERE](https://froala.com/blog/editor/10-quick-tips-about-a-great-markdown-editor/)**
 
- <script type="text/javascript">
-    Prompt("Enter your name");
-</script>
-
 # BYE!! :wave:
 
 ![BYE](https://j.gifs.com/98OvjJ.gif) 
